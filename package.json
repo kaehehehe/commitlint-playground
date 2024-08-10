@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/kaehehehe/commitlint-playground.git",
   "author": "Kae <kaehehehe@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "husky": "^9.1.4"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
 }
