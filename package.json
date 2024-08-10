@@ -1,0 +1,8 @@
+{
+  "name": "commitlint-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaehehehe/commitlint-playground.git",
+  "author": "Kae <kaehehehe@gmail.com>",
+  "license": "MIT"
+}
